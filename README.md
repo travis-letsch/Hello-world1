@@ -1,11 +1,11 @@
 ## Table of Contents
-[Project Title](#Project-Title)
+- [Project Title](#Project-Title)
 
-[Description](#Description)
+- [Description](#Description)
 
-[How to Run Program](#How-to-Run-Program)
+- [How to Run Program](#How-to-Run-Program)
 
-[Files](#Files)
+- [Files](#Files)
 
 
 ## Project Title
